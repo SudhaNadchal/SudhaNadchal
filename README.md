@@ -1,0 +1,10 @@
+- 👋 Hi, I’m @SudhaNadchal
+- 👀 I’m interested in technology
+- 🌱 I believe in life long learning. I’m currently learning full stack development
+- 📫 You can reach me on sudha.nadchal@gmail.com
+
+
+<!---
+SudhaNadchal/SudhaNadchal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
