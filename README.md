@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @SudhaNadchal
+- 👋 Hi, I’m SudhaNadchal
 - 👀 I’m interested in technology
-- 🌱 I believe in life long learning. I’m currently learning full stack development
+- 🌱 I believe in life long learning. 
 - 📫 You can reach me on sudha.nadchal@gmail.com
 
 
