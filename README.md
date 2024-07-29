@@ -1,7 +1,7 @@
 - 👋 Hi, I’m SudhaNadchal
 - 👀 I’m a girl in tech
 - 🌱 I believe in life long learning. 
-- 📫 You can reach me on sudha.nadchal@gmail.com
+- 📫 You can reach out to me at sudha.nadchal@gmail.com
 
 
 <!---
