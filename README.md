@@ -1,5 +1,5 @@
 - 👋 Hi, I’m SudhaNadchal
-- 👀 I’m interested in technology
+- 👀 I’m a girl in tech
 - 🌱 I believe in life long learning. 
 - 📫 You can reach me on sudha.nadchal@gmail.com
 
